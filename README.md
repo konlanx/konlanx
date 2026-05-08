@@ -1,5 +1,8 @@
-## Hi, I'm Tim 👋
+# Introduction
 
-I'm a full stack developer from Hamburg, Germany with a focus on web- and appdevelopment.
+Hey there, my name is Tim. I am a Software Developer from Hamburg, Germany.
+I am working @getcentify building commission based sales software.
 
-I love to hyperfixate on a thing and learn everything I can about it!
+In the past few years I have been focussing on working with web technologies like Node or mobile tech like Flutter.
+
+My biggest focus in my work is to bring testability, expandability and stability to the applications I am working with. For me it's all about a solid foundation that makes new features really shine.
